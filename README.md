@@ -86,15 +86,6 @@ Nome: Bia
 
 Nota 1 (0 a 10): 11
 
-Nota invalida!
-
-Nota 1 (0 a 10): 10
-
-Nota 2 (0 a 10): 8
-
-Nota 3 (0 a 10): 6
-
-
 Resultado: Nota invalida!
 
 
