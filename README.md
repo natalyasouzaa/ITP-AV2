@@ -59,20 +59,19 @@ Nota 3 (0 a 10): 7
 
 Resultado:
 
-Nome    Notas         Media   Situacao
-Ana     5.0 6.0 7.0   6.00    Atingiu a meta
+Nome Ana    
+
+Notas 5.0 6.0 7.0         
+
+Media 6.00  
+
+Situacao Atingiu a meta
 
 Media geral: 6.00
 
 Maior media: 6.00
 
-Estudante(s):
-
-Ana
-
-Objetivo: verificar o cadastro do estudante, o cálculo da média e a classificação quando a média é igual a 6.
-
-
+Estudante(s):Ana
 
 
 - Teste 2 – Entrada inválida
