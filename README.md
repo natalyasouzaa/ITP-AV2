@@ -39,7 +39,7 @@ Após iniciar o programa, informe a quantidade de estudantes, seus nomes e as tr
 **Testes**
 
 
-**Teste 1) Funcionamento normal**
+**1) Funcionamento normal**
 
 Entrada:
 
@@ -61,7 +61,7 @@ Maior média: 6,00
 
 Estudante com maior média: Ana
 
-**Teste 2) Nota inválida**
+**2) Nota inválida**
 
 Entrada:
 
