@@ -73,7 +73,7 @@ Nota 1: 11
 
 Resultado:
 
-Exibição de mensagem de nota inválida.
+Mensagem: "Nota inválida!"
 
 Solicitação de uma nova nota.
 
