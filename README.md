@@ -39,51 +39,43 @@ Após iniciar o programa, informe a quantidade de estudantes, seus nomes e as tr
 **Testes**
 
 
-- Teste 1 – Funcionamento normal
+Teste 1 – Funcionamento normal
 
 Entrada:
 
-Quantidade de estudantes (1 a 10): 1
+Quantidade de estudantes: 1
 
 Nome: Ana
 
-Nota 1 (0 a 10): 5
-
-Nota 2 (0 a 10): 6
-
-Nota 3 (0 a 10): 7
+Notas: 5, 6 e 7
 
 Resultado:
 
-Nome Ana    
+Média individual: 6,00
 
-Notas 5.0 6.0 7.0         
+Situação: Atingiu a meta
 
-Media 6.00  
+Média geral da turma: 6,00
 
-Situacao Atingiu a meta
+Maior média: 6,00
 
-Media geral: 6.00
+Estudante com maior média: Ana
 
-Maior media: 6.00
-
-Estudante(s):Ana
-
-
-- Teste 2 – Entrada inválida
-
+Teste 2 – Nota inválida
 
 Entrada:
 
-
-Quantidade de estudantes (1 a 10): 1
+Quantidade de estudantes: 1
 
 Nome: Bia
 
-Nota 1 (0 a 10): 11
+Nota 1: 11
 
-Resultado: Nota invalida!
+Resultado:
 
+Exibição de mensagem de nota inválida.
+
+Solicitação de uma nova nota.
 
 **Vídeo**
 
