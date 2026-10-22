@@ -41,7 +41,7 @@ Após iniciar o programa, informe a quantidade de estudantes, seus nomes e as tr
 
 **1) Funcionamento normal**
 
-Entrada:
+- Entrada:
 
 Quantidade de estudantes: 1
 
@@ -49,7 +49,7 @@ Nome: Ana
 
 Notas: 5, 6 e 7
 
-Resultado:
+- Resultado:
 
 Média individual: 6,00
 
@@ -63,7 +63,7 @@ Estudante com maior média: Ana
 
 **2) Nota inválida**
 
-Entrada:
+- Entrada:
 
 Quantidade de estudantes: 1
 
@@ -71,7 +71,7 @@ Nome: Bia
 
 Nota 1: 11
 
-Resultado:
+- Resultado:
 
 Mensagem: "Nota inválida!"
 
