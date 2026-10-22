@@ -27,13 +27,13 @@ O programa Boletim de uma Pequena Turma foi desenvolvido em linguagem C para fac
 
 **Compilação e execução**
 
-O programa foi desenvolvido em linguagem C e utiliza o arquivo main.c
+O programa foi desenvolvido em linguagem C e está disponível no arquivo main.c.
 
-O programa pode ser compilado e executado em compiladores online ou em ambientes de desenvolvimento, como o Visual Studio Code (VS Code), desde que possuam um compilador C. 
+Para compilar utilizando o GCC, execute:
 
+gcc -std=c11 -Wall -Wextra main.c -o programa
 
-Em compiladores online, basta selecionar a linguagem C, inserir o código-fonte do arquivo main.c e clicar em Run para compilar e executar o programa. Em ambientes como o Visual Studio Code (VS Code), é necessário abrir o arquivo e utilizar um compilador C para compilar e executar o código.
-
+Para executar em compiladores online, basta inserir o código-fonte, selecionar a linguagem C e clicar em Run.
 
 Após iniciar o programa, informe a quantidade de estudantes, seus nomes e as três notas de cada um para visualizar os resultados.
 
