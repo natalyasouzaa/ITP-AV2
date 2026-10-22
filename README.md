@@ -12,19 +12,17 @@ O programa Boletim de uma Pequena Turma foi desenvolvido em linguagem C para fac
 
 **Funcionalidades**
 
-- Cadastro de estudantes e leitura de três notas por estudante.
+- Cadastro de 1 a 10 estudantes e seus nomes.
 
-- Validação dos nomes e das notas.
+- Registro de três notas por estudante, entre 0 e 10.
 
-- Cálculo das médias individuais e da média geral da turma.
+- Cálculo das médias individuais.
+
+- Cálculo da média geral da turma.
 
 - Exibição de uma tabela com nomes, notas, médias e situações.
 
-- Identificação do estudante com a maior média, incluindo empates.
-
-- Calcula e exibe a média geral da turma.
-
-- Identifica a maior média e exibe o nome de todos os estudantes empatados nessa média.
+- Identificação da maior média e dos estudantes empatados.
 
 
 **Compilação e execução**
