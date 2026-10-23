@@ -79,4 +79,4 @@ Solicitação de uma nova nota.
 
 **Vídeo**
 
-link da apresentação no YouTube.
+Link da apresentação no YouTube: https://www.youtube.com/watch?v=3Am3CjCxZU4
